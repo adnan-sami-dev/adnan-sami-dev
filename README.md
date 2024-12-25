@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adnan-sami-dev
-- 👀 I’m interested in web development
+- 👀 I’m interested in dta analysis and web development
 - 🌱 I’m currently learning computer science bachelors
 - 📫 How to reach me: sami.adnandev@gmail.com
 
