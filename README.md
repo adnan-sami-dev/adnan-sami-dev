@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adnan-sami-dev
-- 👀 I’m interested in dta analysis and web development
-- 🌱 I’m currently learning computer science bachelors
+- 👀 I’m interested in data analysis and QA testing!
+- 🌱 I’m currently a computer science grad actively seeking jobs
 - 📫 How to reach me: sami.adnandev@gmail.com
 
 <!---
